@@ -1,4 +1,4 @@
-<h1 align="center"> Всем привет! Меня зовут <a href="https://m.vk.com/sergo_jan" target="_blank">Сергей</a> 
+<h1 align="center"> Всем привет! Меня зовут <a href="https://t.me/Losarmenios" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Data Analyst </h3>
 
@@ -12,5 +12,4 @@
 
 Для углубления знаний в анализе прошел несколько онлайн курсов, с помощью которых освоил Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. На академических проектах практиковался в проведение статистических тестов, создании дашбордов в Tableau, использовании GIT и AIRFLOW.
 
-Контакты:
-https://t.me/Losarmenios
+
