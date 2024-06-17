@@ -49,6 +49,6 @@ Karpov.Courses "Аналитик данных"
 ![image](https://github.com/ITSergo/ITSergo/assets/169386071/fa0b38aa-c13c-4f8b-a308-e61b081098b4)
 
 stepik.org "Основы статистики"
-[stepik-certificate-76-8aa3f0e.pdf](https://github.com/user-attachments/files/15870918/stepik-certificate-76-8aa3f0e.pdf)
+![image](https://github.com/ITSergo/ITSergo/assets/169386071/7a2cbe96-f070-40c6-b2f3-888eb985e6d2)
 
 
